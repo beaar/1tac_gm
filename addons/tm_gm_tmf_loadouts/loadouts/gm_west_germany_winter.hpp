@@ -2,6 +2,7 @@
 tooltip = "Author: Fingers";
 class baseMan {// Weaponless baseclass
     displayName = "Unarmed";
+    faces[] = {"faceset:caucasian"};
     // All randomized.
     uniform[] =
     {
