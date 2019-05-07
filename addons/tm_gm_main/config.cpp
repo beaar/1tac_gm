@@ -9,7 +9,7 @@ class cfgPatches {
 		weapons[] = {};
 		requiredVersion = REQUIRED_VERSION;
 		/* Require CBA and all components below */
-		requiredAddons[] = {"tac1_tm_misc"};
+		requiredAddons[] = {"tac1_tm_main"};
 		VERSION_CONFIG;
 	};
 };
